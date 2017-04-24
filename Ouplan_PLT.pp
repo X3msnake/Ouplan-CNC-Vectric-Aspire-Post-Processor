@@ -1,15 +1,17 @@
 +================================================
 +                                                
-+ Ouplan - Vectric machine output configuration file   
-+                                                
++ Ouplan - Vectric machine output configuration file used for machines with knife tool
++ NOTE:
++ The Z height and depth of the cut is set by the machine controller and not by the vectric software
++ The only effect of using multiple cut depths is posting multiple passes to the PLT File
 +================================================
 +                                                
 + History                                        
 +                                                
 + Who    When       What                         
 + ======== ========== ===========================
-+ Alberto 31/10/2012  
-+                       
++ Alberto 31/10/2012   Initial Commit
++ X3msnake 24/04/2016  Info update added note                   
 +================================================
 
 POST_NAME = "Ouplan InoPLT (mm) (*.plt)"
