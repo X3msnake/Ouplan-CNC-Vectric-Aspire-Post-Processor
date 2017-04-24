@@ -1,8 +1,8 @@
 
 +================================================
 +                                                
-+   Vectric machine output configuration file   
-+                                                
++   Vectric machine output configuration file
++   The difference from this pp to the arcs is the usage of the G55 coordinate system instead of the standard G54    
 +================================================
 +                                                
 + History                                        
