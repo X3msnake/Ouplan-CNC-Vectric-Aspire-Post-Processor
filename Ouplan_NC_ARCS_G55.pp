@@ -165,6 +165,6 @@ begin FOOTER
 
 "[N]M9 (Stop Aspirador)"
 "[N]G53 G0 Z150 (Absolute Origin)"
-"[N]G53 G0 X30 Y30 (Absolute Origin)"
++ Uncomment the next line to make the machine go to the specified XY before terminating the program
++"[N]G53 G0 X30 Y30 (Absolute Origin)"
 "[N]M30"
-
