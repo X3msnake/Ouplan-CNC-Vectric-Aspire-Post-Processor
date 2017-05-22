@@ -73,7 +73,8 @@ begin TOOLCHANGE
 
 begin FEED_RATE_CHANGE
 
-"SF[F];"
++ Uncomment the next line to change feeds based on gcode (only works with some machines)
++"SF[F];"
 
 
 +---------------------------------------------------
